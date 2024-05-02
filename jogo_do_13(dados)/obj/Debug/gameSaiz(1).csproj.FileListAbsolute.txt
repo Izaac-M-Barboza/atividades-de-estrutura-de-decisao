@@ -1,0 +1,16 @@
+D:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\bin\Debug\gameSaiz(1).exe.config
+D:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\bin\Debug\gameSaiz(1).exe
+D:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\bin\Debug\gameSaiz(1).pdb
+D:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz(1).csprojResolveAssemblyReference.cache
+D:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz_1_.MainForm.resources
+D:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz(1).csproj.GenerateResource.Cache
+D:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz(1).exe
+D:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz(1).pdb
+E:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\bin\Debug\gameSaiz(1).exe.config
+E:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\bin\Debug\gameSaiz(1).exe
+E:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\bin\Debug\gameSaiz(1).pdb
+E:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz(1).csprojResolveAssemblyReference.cache
+E:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz_1_.MainForm.resources
+E:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz(1).csproj.GenerateResource.Cache
+E:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz(1).exe
+E:\PA\SharpDevelop Projects\gameSaiz(1)\gameSaiz(1)\obj\Debug\gameSaiz(1).pdb
